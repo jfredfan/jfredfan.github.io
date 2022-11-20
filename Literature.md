@@ -1,3 +1,7 @@
+layout: page
+title: Literature
+permalink: /
+
 ### Writing projects by Fred Fan
 
 #### Autumn treat
