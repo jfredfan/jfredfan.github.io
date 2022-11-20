@@ -1,3 +1,3 @@
-## Welcome to my GitHub landing page
+### Welcome to my GitHub landing page
 
-This is a [test hyperlink](https://jfredfan.github.io) to the current page itself.
+Currently I use this space to share my portfolio of data science, [digital arts](https://fineartamerica.com/profiles/zhongwei-fan?tab=favorites), and literature projects.
